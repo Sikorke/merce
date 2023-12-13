@@ -1,0 +1,19 @@
+{
+    "name": "sikor/tree",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sikor\\Tree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sikorke",
+            "email": "sikorami@protonmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
